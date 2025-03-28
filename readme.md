@@ -27,3 +27,5 @@ SELECT name, age, nationality, overall, club
 FROM team4_fifa_internal 
 ORDER BY overall DESC 
 ```
+
+Табличку можно найти в среде, она называется team_4_fifa_players.
