@@ -28,4 +28,5 @@ FROM team4_fifa_internal
 ORDER BY overall DESC 
 ```
 
-Табличку можно найти в среде, она называется team_4_fifa_players.
+Табличку можно найти в среде, она называется team4_fifa_internal,
+внешняя таблица называется team_4_fifa_players
